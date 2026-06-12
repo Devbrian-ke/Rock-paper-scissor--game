@@ -1,5 +1,5 @@
 
-🪨  Rock Paper Scissors Game
+Rock Paper Scissors Game
 Python 3  |  CLI Game  |  Open Source  |  Beginner Friendly
 
 
